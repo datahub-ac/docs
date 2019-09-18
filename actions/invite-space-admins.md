@@ -1,7 +1,8 @@
 # Invite Space Admins
 
-* At the space level, the only type of permission that can be granted is that of space admin. For details on the types of rights a space admin has, please read [here](../data-organization/spaces.md). 
-* Before granting access rights to a space, make sure that the right permissions are set. Only space admins, org managers, and faculty members are allowed to invite others to become space admins.
+![](../.gitbook/assets/info_simple.svg.png)At the space level, the only type of permission that can be granted is that of space admin. For details on the types of rights a space admin has, please read [here](../data-organization/spaces.md).
+
+![](../.gitbook/assets/info_simple.svg.png)Before granting access rights to a space, make sure that the right permissions are set. Only space admins, org managers, and faculty members are allowed to invite others to become space admins.
 
 **To invite a space admin:**
 

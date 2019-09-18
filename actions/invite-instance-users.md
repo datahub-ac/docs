@@ -1,7 +1,8 @@
 # Invite instance users
 
-* At the instance level, there are two type of permission that can be granted: instance editor and viewer. For details on the types of rights each of these roles has, please read [here](../data-organization/instances.md). 
-* Before granting access rights to an instance, make sure that the right permissions are set. Only space admins are allowed to grant access right for an instance.
+![](../.gitbook/assets/info_simple.svg.png)At the instance level, there are two type of permission that can be granted: instance editor and viewer. For details on the types of rights each of these roles has, please read [here](../data-organization/instances.md).
+
+![](../.gitbook/assets/info_simple.svg.png)Before granting access rights to an instance, make sure that the right permissions are set. Only space admins are allowed to grant access right for an instance.
 
 **To invite a new instance user:**
 

@@ -1,7 +1,9 @@
 # Restore a snapshot
 
-* Restoring a snapshot means replacing the content of the current state with the content of the snapshot being restored. Make sure that you have the right permission to restore a snapshot. Only instance editors are allowed to restore snapshots. If you don't have the right permissions to restore a snapshot, then you can either ask the instance editor to do so, or you can ask the instance editor to share the snapshot in your instance and where can work with that snapshot. 
-* Upon a successful completion of the operation, you will be redirected to the snapshot view of your current state where you will see that the files and data are now those of the restored snapshot. 
+![](../.gitbook/assets/info_simple.svg.png)Restoring a snapshot means replacing the content of the current state with the content of the snapshot being restored. Make sure that you have the right permission to restore a snapshot. Only instance editors are allowed to restore snapshots. If you don't have the right permissions to restore a snapshot, then you can either ask the instance editor to do so, or you can ask the instance editor to share the snapshot in your instance and where can work with that snapshot.
+
+![](../.gitbook/assets/info_simple.svg.png)Upon a successful completion of the operation, you will be redirected to the snapshot view of your current state where you will see that the files and data are now those of the restored snapshot.  
+
 
 **To restore a snapshot:**
 

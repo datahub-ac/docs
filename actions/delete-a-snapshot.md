@@ -1,8 +1,10 @@
 # Delete a snapshot
 
-* Before deleting a snapshot, make sure that the right permissions are set. Only the editor of an instance is allowed to delete a snapshot in that instance, otherwise an instance editor needs to be contacted in order for a snapshot to be deleted. 
-* Upon successfully deleting a snapshot, the web browser will be redirected to the view where the snapshots in the current instance are displayed. 
-* Snapshot deletion is possible from all instances with the exception of the _Distributed_ instance.
+![](../.gitbook/assets/info_simple.svg.png)Before deleting a snapshot, make sure that the right permissions are set. Only the editor of an instance is allowed to delete a snapshot in that instance, otherwise an instance editor needs to be contacted in order for a snapshot to be deleted.
+
+![](../.gitbook/assets/info_simple.svg.png)Upon successfully deleting a snapshot, the web browser will be redirected to the view where the snapshots in the current instance are displayed.
+
+![](../.gitbook/assets/info_simple.svg.png)Snapshot deletion is possible from all instances with the exception of the _Distributed_ instance.
 
 **To delete a snapshot:**
 
@@ -12,7 +14,7 @@
 
 
 
-#### If you are encountering a problem deleting a snapshot, refer to the troubleshooting guide [here](../troubleshooting/authorization-issues/cannot-delete-a-snapshot.md).
+#### ![](../.gitbook/assets/info_simple.svg.png)If you are encountering a problem deleting a snapshot, refer to the troubleshooting guide [here](../troubleshooting/authorization-issues/cannot-delete-a-snapshot.md).
 
 \*\*\*\*
 
