@@ -25,6 +25,7 @@
   * [Delete files](actions/delete-files.md)
   * [Invite Space Admins](actions/invite-space-admins.md)
   * [Invite instance users](actions/invite-instance-users.md)
+  * [Share an update](actions/share-an-update.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Login issues](troubleshooting/login-issues/README.md)
     * [I can't log in to DataHub](troubleshooting/login-issues/cannot-log-in-to-datahub.md)

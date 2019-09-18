@@ -10,7 +10,7 @@
 
 ![](../.gitbook/assets/screen-shot-2019-09-18-at-2.24.55-pm-2.png)
 
-2- Click on one of the two buttons displayed in the top right: + NEW CLASS to create a space to teach a class, and + NEW RESEARCH PROJECT for a research space.   
+2- Click on one of the two buttons displayed in the top right: **+ NEW CLASS** to create a space to teach a class, and **+ NEW RESEARCH PROJECT** for a research space.   
 ****
 
 3- Provide a name and a description of the new space in the respective fields.  
