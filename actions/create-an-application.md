@@ -8,7 +8,7 @@
 
 1. Navigate to the instance view where the current state and the list of snapshots in an instance are visible. This can be done by clicking on level 3 \(Instance\) from the side bar, or by selecting the instance from the space view. 
 2. Click on the **OPEN** **CURRENT STATE** button. 
-3. From the side bar on the left, select **Add New Application**. 
+3. From the top-right, click +**Add New Application**. 
 4. First select the application to create \(e.g. JupyterLab + Latex\). 
 5. Provide a name and a description of the new application. 
 6. Click on the **Add Application** button.

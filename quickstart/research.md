@@ -8,11 +8,11 @@ In this tutorial, you will learn how to set up a research project with multiple 
 
 ## Step 1: Create a space for the research project.
 
-To start a research, you have to create a space for it. Before creating a space, you have to select the organization where you want the research project to be hosted. Once you log in to DataHub, a dashboard will be displayed where you can see all the organizations of which you are a member. From the dashboard, you can select the organization you want to create the research project in. Once you have chosen the organization, create a space for your project following the steps described [here](../actions/create-a-space.md).
+To start a research project, you have to create a space for it. Before creating a space, you have to select the organization where you want the research project to be hosted. Once you log in to DataHub, a dashboard will be displayed where you can see all the organizations of which you are a member. From the dashboard, you can select the organization you want to work in. Once you have chosen the organization, create a space for your research project following the steps described [here](../actions/create-a-space.md).
 
 ## Step 2: Upload files to your instance.
 
-To start working on your research project, you will need to have files and data that you want to upload to your work environment. To upload files, you should open the current state of your master instance. You can go to the current state by selecting your space, search for the master instance, and below the master instance you will find a button called CURRENT STATE which will take you to the file list where you can upload new files. Alternatively, you can click on the master instance and you can use the button called OPEN CURRENT STATE. Finally, to upload files, follow the steps [here](../actions/upload-new-files.md).
+To start working on your research project, you will need to have files and data that you want to upload to your work environment. To upload files, you should open the current state of the MASTER instance in the space you have just created. So from the list of instance of your newly created space, search for the MASTER instance, and on the right you will find a button called OPEN CURRENT STATE which will take you to the file list where you can upload new files. Alternatively, you can click on the Master instance and you can use the button called OPEN CURRENT STATE. Finally, to upload files, follow the steps [here](../actions/upload-new-files.md).
 
 ## Step 3: Start a new application.
 
@@ -20,14 +20,13 @@ To work with your files, you will need to create and start an application. Say f
 
 ## Step 4: Invite researchers to join the research project.
 
-To add researcher to your project, you need to send an invitation to each researcher to join the space you have created in DataHub. As a space admin, you will be assigned a _Master_ instance which you will use to interact with your collaborators. Collaborators instead will be invited to join DataHub, and a separate instance will be created for each collaborator. 
-
-To invite collaborators, you first have to collect their email addresses to which you want to send the invitation. Once you have collected the student emails, then you have to decide between creating an empty instance for each student, meaning that they will not have files in their work environment when they join DataHub, or you can share files with the instances to be created for each collaborator. To invite collaborators with one of these two options, follow the steps detailed [here](../actions/create-an-instance.md).
+To add researcher to your project, you need to send an invitation to each researcher to join the space you have created in DataHub. As a space admin, you will be assigned a MASTER instance which you will use to interact with your collaborators. Collaborators instead will be invited to join DataHub, and a separate instance will be created for each collaborator.   
+  
+To invite collaborators, you first have to collect their email addresses to which you want to send the invitation. Once you have collected the emails, then you have to decide between creating an empty instance for each collaborator, meaning that they will not have files or other objects in their work environment when they join DataHub, or you can share files and objects with the instances to be created for each collaborator. To invite collaborators using one of these two options, follow the steps detailed [here](../actions/create-an-instance.md).
 
 ## Step 5: Share updates with your collaborators.
 
-If you want to to share a _new file_ \(e.g. assignment, homework,...\) with one or more students, then you need to first upload the file\(s\) to your current state \(step 2\) , then create a snapshot of your current state, and finally distribute the snapshot to  the instances of the students you want to share the files with.   
-To do so, upload the files first and then click on DISTRIBUTE CURRENT STATE button which you see at the top of the page next to Current State. Clicking on this button will take you in a two-step operation where you first create a snapshot, then distribute it with the students. For more details on how to distribute a snapshot, read more [here](../actions/distribute-a-snapshot.md).
+If you want to to share a _new file_ \(e.g. code, data,...\) with one or more collaborators, then you need to first upload the file\(s\) to your current state \(step 2\). Upon uploading new files, you will see a blue snack bar at the bottom suggesting you to stage the newly uploaded files for sharing. Click on STAGE to stage the new files. After that, from the left sidebar click on DISTRIBUTE OBJECTS to share the new files with other instances. For more detail on the steps needed to distribute files, check [here](../actions/distribute-a-snapshot.md).
 
 ## Step 6: Check and reproduce your collaborators\` results.
 

@@ -12,7 +12,7 @@ To start a class, you have to create a space for it. Before creating a space, yo
 
 ## Step 2: Upload files to your instance.
 
-To teach your class, you will need to have files and data that you want to upload to your work environment. To upload files, you should open the current state of the **MASTER** instance in the space you have just created. So from the list of instance of your newly created space, search for the MASTER instance, and on the right you will find a button called OPEN CURRENT STATE which will take you to the file list where you can upload new files. Alternatively, you can click on the Master instance and you can use the button called OPEN CURRENT STATE. Finally, to upload files, follow the steps [here](../actions/upload-new-files.md).
+To teach your class, you will need to have files and data that you want to upload to your work environment. To upload files, you should open the current state of the MASTER instance in the space you have just created. So from the list of instance of your newly created space, search for the MASTER instance, and on the right you will find a button called OPEN CURRENT STATE which will take you to the file list where you can upload new files. Alternatively, you can click on the Master instance and you can use the button called OPEN CURRENT STATE. Finally, to upload files, follow the steps [here](../actions/upload-new-files.md).
 
 ## Step 3: Start a new application.
 
@@ -20,9 +20,9 @@ To work with your files, you will need to create and start an application. Say f
 
 ## Step 4: Invite students to join the class.
 
-To add students to your class, you need to send an invitation to each student to join the space you have created in DataHub. As a space admin, you will be assigned the MASTER instance which you will use to interact with your students. Students instead will be invited to join DataHub, and a separate instance can be created for each student. To invite students, you first have to collect their email addresses to which you want to send the invitation.   
+To add students to your class, you need to send an invitation to each student to join the space you have created in DataHub. As a space admin, you will be assigned the MASTER instance which you will use to interact with your students. Students instead will be invited to join DataHub, and a separate instance can be created for each student.   
   
-Once you have collected the student emails, then you have to decide between creating an empty instance for each student, meaning that they will not have files in their work environment when they join DataHub, or you can share files with the instances to be created for each student. To invite students using one of these two options, follow the steps detailed [here](../actions/create-an-instance.md).
+To invite students, you first have to collect their email addresses to which you want to send the invitation. Once you have collected the emails, then you have to decide between creating an empty instance for each student, meaning that they will not have files in their work environment when they join DataHub, or you can share files with the instances to be created for each student. To invite students using one of these two options, follow the steps detailed [here](../actions/create-an-instance.md).
 
 ## Step 5: Share updates with the students.
 
