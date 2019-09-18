@@ -1,16 +1,23 @@
+---
+description: >-
+  By distributing objects (files, tables, or applications) to another instance,
+  the objects being distributed will be added and merged with the content of the
+  current state of the target instance.
+---
+
 # Distribute objects
 
-![](../.gitbook/assets/info_simple.svg.png) By distributing objects \(files, tables, or applications\) to another instance, the objects being distributed will be added and merged with the content of the current state of the target instance. 
+![](../.gitbook/assets/info_simple.svg.png)DataHub allows you to distribute the entire contents of your current state or a snapshot, otherwise you can distribute a few selected objects.
 
-![](../.gitbook/assets/info_simple.svg.png)If you choose to distribute the entire contents of a snapshot \(or the current state\), a backup snapshot of the current state of the target instance will automatically be created before the merge. DataHub allows to distribute an existing snapshot, or create a snapshot from the current state and then distribute it to other instances.
+![](../.gitbook/assets/info_simple.svg.png)If you choose to distribute the entire contents of a snapshot \(or current state\), a backup snapshot of the current state of the target instance will automatically be created before the merge.
 
-![](../.gitbook/assets/info_simple.svg.png)Upon a successful completion of the operation, 
+![](../.gitbook/assets/info_simple.svg.png)After the distribution request is submitted, the operation will start in the backend and upon completion, you will receive a summary email detailing the outcome.
 
 ## **There are two options to distribute a snapshot:**
 
-## **Distribute an existing snapshot**
+### **- Option 1: Distribute an existing snapshot**
 
-1. Navigate to the **instance view** where the list of snapshots within an instance is visible. This can be done by clicking on level 3 \(Instance\) from the side bar. 
+1. Navigate to the **instance view** where the list of mutable and immutable states are displayed.This can be done by clicking on level 3 \(Instance\) from the side bar, or by selecting an organization from the dashboard, then a space, and then an instance. 
 2. From the table of snapshots, choose the snapshot to be distributed and in the corresponding row for that snapshot click on the blue icon contained in the column Distribute. 
 3. Alternatively, click on the name of the snapshot in the same table which will illustrate a blue alert message with a button called **DISTRIBUTE SNAPSHOT:** click on that button. 
 4. The browser will be redirected to a view where the possible target instances will be listed.  
@@ -18,7 +25,7 @@
 6. Decide whether to distribute _only files_ or _files and packages_ by ticking the **Distribute only files** field. Distributing only files is faster, however in case new packages were installed, these will be not pushed to the target instances. This might result in some applications showing different behaviour in the source and target instances. 
 7. Click on the **DISTRIBUTE SNAPSHOT** button at the bottom. 
 
-## **Create and distribute a snapshot**
+### **- Option 2: Create and distribute a snapshot**
 
 1. Navigate to the instance view where the list of snapshots within an instance is visible. This can be done by clicking on level 3 \(Instance\) from the side bar. 
 2. Click on **WORK IN \[INSTANCE NAME\] INSTANCE** button. 
