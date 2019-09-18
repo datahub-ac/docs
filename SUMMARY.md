@@ -14,7 +14,7 @@
   * [Create an instance](actions/create-an-instance.md)
   * [Create a snapshot](actions/create-a-snapshot.md)
   * [Create an application](actions/create-an-application.md)
-  * [Distribute a snapshot](actions/distribute-a-snapshot.md)
+  * [Distribute objects](actions/distribute-a-snapshot.md)
   * [Restore a snapshot](actions/restore-a-snapshot.md)
   * [Upload new files](actions/upload-new-files.md)
   * [Work with applications and files](actions/start-an-application.md)

@@ -1,8 +1,8 @@
 # Create a space
 
-\*\*\*\*![](../.gitbook/assets/info%20%281%29.png)**Before creating a space,** make sure that the right permissions are set. Only organization managers and faculty members are allowed to create new spaces. A faculty member or organization manager needs to be contacted in order for a new space to be set up.  
+\*\*\*\*![](../.gitbook/assets/info_simple.svg.png)**Before creating a space,** make sure that the right permissions are set. Only organization managers and faculty members are allowed to create new spaces. A faculty member or organization manager needs to be contacted in order for a new space to be set up.  
 
-![](../.gitbook/assets/info%20%281%29.png)**Upon successful space creation**, the web browser will be redirected to the view of the newly created space.  
+![](../.gitbook/assets/info_simple.svg.png)**Upon successful space creation**, the web browser will be redirected to the view of the newly created space.  
 
 ## To create a new space
 

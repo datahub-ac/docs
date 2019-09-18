@@ -1,7 +1,8 @@
 # Create a snapshot
 
-* Before creating a new snapshot, make sure that the right permissions are available. Only instance editors are allowed to create new snapshots in their instance. Please contact a space administrator to get appropriate _editor_ privileges.
-* Upon successful creation of a snapshot, the browser will be redirected to view the newly created snapshot.
+![](../.gitbook/assets/info_simple.svg.png)**Before creating a new snapshot**, make sure that the right permissions are available. Only instance editors are allowed to create new snapshots in their instance. Please contact a space administrator to get appropriate _editor_ privileges.
+
+![](../.gitbook/assets/info_simple.svg.png)**Upon successful creation of a snapshot**, the browser will be redirected to view the newly created snapshot.
 
 ## **There are two options to create a snapshot:**
 

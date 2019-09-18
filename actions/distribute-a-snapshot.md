@@ -1,7 +1,10 @@
-# Distribute a snapshot
+# Distribute objects
 
-* By distributing a snapshot to another instance, the content of the snapshot being distributed will be added and merged with the content of the current state of the target instance. A backup snapshot of the current state of the target instance will automatically be created before the merge. DataHub allows to distribute an existing snapshot, or create a snapshot from the current state and then distribute it to other instances. 
-* Upon a successful completion of the operation, a REVIEW button will be available for each of the distributed instances. Clicking on one of the REVIEW buttons, the browser will be redirected to the snapshot view of the associated instance, where you the files, tables and applications will be visible. 
+![](../.gitbook/assets/info_simple.svg.png) By distributing objects \(files, tables, or applications\) to another instance, the objects being distributed will be added and merged with the content of the current state of the target instance. 
+
+![](../.gitbook/assets/info_simple.svg.png)If you choose to distribute the entire contents of a snapshot \(or the current state\), a backup snapshot of the current state of the target instance will automatically be created before the merge. DataHub allows to distribute an existing snapshot, or create a snapshot from the current state and then distribute it to other instances.
+
+![](../.gitbook/assets/info_simple.svg.png)Upon a successful completion of the operation, 
 
 ## **There are two options to distribute a snapshot:**
 

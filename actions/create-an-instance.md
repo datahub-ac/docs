@@ -1,8 +1,11 @@
 # Create an instance
 
-* Before creating a new instance, make sure that the right permissions are available. Only space administrators are allowed to create new instances in their space. Please contact a space administrator to create a new instance with appropriate _editor_ or _viewer_ privileges.
-* Upon successful creation of a single-user or a group-user instance, the browser will be redirected to view the newly created instance.
-* Upon successful creation of multiple instances, the browser will be redirected to the original page. ****
+![](../.gitbook/assets/info_simple.svg.png)**Before creating a new instance**, make sure that the right permissions are available. Only space administrators are allowed to create new instances in their space. Please contact a space administrator to create a new instance with appropriate _editor_ or _viewer_ privileges.
+
+![](../.gitbook/assets/info_simple.svg.png)**Upon successful creation** **of a single-user or a group-user instance**, the browser will be redirected to view the newly created instance.
+
+![](../.gitbook/assets/info_simple.svg.png)**Upon successful creation of multiple instances**, the browser will be redirected to the original page.  
+****
 
 ## **There are two options to create an instance:**
 
