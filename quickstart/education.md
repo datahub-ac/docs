@@ -2,9 +2,9 @@
 
 DataHub is an ideal solution for conducting educational activities such as teaching a university class, offering a summer school, organizing hands-on sessions, giving interactive presentations, and other academic training programs.
 
-Classes with a substantial empirical or data-driven component often involve processes such as the collection, preparation and sharing of data, files, assignments and solutions between teachers and students, the installation and configuration of computational tools on various operating systems, the writing, execution, and sharing of code, and finally the production and re-production of analytical results. The more students a class has, the more it will result challenging to organize all these processes reliably and efficiently.
+Classes with a substantial empirical or data-driven component often involve operations such as the collection, preparation and sharing of data, files, assignments and solutions between teachers and students, the installation and configuration of computational tools on various operating systems, the writing, execution, and sharing of code, and finally the production and re-production of analytical results. The more students a class has, the more it will result challenging to organize all these processes reliably and efficiently.
 
-In this tutorial, you will learn how to set up a class with multiple students and manage the storing and sharing of different versions of work.
+In this tutorial, you will learn how to set up a class with several students and manage the storing and sharing of different versions of files, data, and applications.
 
 ## Step 1: Create a space for the class.
 
