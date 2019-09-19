@@ -11,7 +11,7 @@ description: >-
 
 ![](../.gitbook/assets/info_simple.svg.png)Whether you choose to distribute the entire contents of a snapshot \(or current state\) or selected objects, a backup snapshot of the current state of the target instance will automatically be created before the merge.
 
-![](../.gitbook/assets/info_simple.svg.png)After the distribution request is submitted, the operation will start in the backend and upon completion, you will receive a summary email detailing the outcome.
+![](../.gitbook/assets/info_simple.svg.png)When you press the button to distribute, the actual operation will be scheduled and executed in the background. Upon completion, you will receive a notification email at your registered email address confirming the success or failure or the task.
 
 ## **There are two options to distribute objects:**
 
@@ -21,14 +21,17 @@ description: >-
 
 1. Navigate to the instance view where the list of mutable and immutable states are displayed.This can be done by clicking on level 3 \(Instance\) from the side bar, or by selecting an organization from the dashboard, then a space, and then an instance. 
 2. Click OPEN CURRENT STATE or select one of the snapshots listed under Immutable States. 
-3. If you want to distribute specific files, then from the file list select all files and click the STAGE button from the menu above. There are three types of files you can select, workplace, personal, and application files. Only one type of files can be added to stage at a time. 
-4. If you want to distribute everything in your current state/snapshot, then go to step 5. 
-5. From the sidebar on the left, click on DISTRIBUTE OBJECTS. 
-6. Choose whether you want to distribute the staged files or everything. 
-7. Select the target organization and space from which to choose your target instances. 
-8. Select whether you want to distribute with specific instances or all instances in the selected space. 
-9. Select the distribution strategy for each of the three file types. The options are:  - Distribute extra objects \(files and tables\) compared to target **\[TAMAS\]** - Distribute all objects \(overwrite target\) **\[TAMAS\]** - Clean and replace target **\[TAMAS\]** 
-10. Click on the **DISTRIBUTE**  button at the bottom. 
+3. If you want to distribute specific files or folders, then check the checkbox for the desired files/folders, and click the STAGE button from the menu above. There are three types of files you can select: workplace, personal, and application files. Only one type of files can be added to stage at a time.  If you want to distribute everything in your current state/snapshot, then go to the next step directly. 
+4. From the sidebar on the left, click on DISTRIBUTE OBJECTS. 
+5. Choose whether you want to distribute the files you staged in step 3, or the entire state. 
+6. Next, select the target organization and space to distribute to. In the selected space, you can choose to distribute to all instances or just a subset of them \(Please check [Notes on distribution to all instances](distribute-a-snapshot.md#notes-on-distribution-to-all-instances) about possible restrictions\). 
+7. Select the distribution strategy for each of the three file types. The distribution strategy determines how to resolve potential conflicts between the state you're distributing from and the state you're distributing to. DataHub provides the following strategies for the respective use cases: 
+   1. You want to distribute **extra objects** only, e.g. you want to distribute new pdf file\(s\) to all other instances. However, you don't want to overwrite any changes to files you have distributed earlier, because e.g. your students were supposed to work on the notebook you distributed yesterday. In this case, you want to use the "**Distribute extra objects \(files and tables\) compared to target**" option.
+   2. You want to distribute the current state of your objects to the target state, even if it means **overwriting existing objects**. This is usually relevant if you want to e.g. distribute solution\(s\) to replace the previously distributed exercise file\(s\). After the distribute, each instance will have your version of the solution, while any original work done on the objects will still be accessible in the immutable snapshots taken before the distribution was carried out. In this case, you want to use the "**Distribute all objects \(overwrite target\)**" option.  Note that any additional files will be retained in the target state that are not contained in the state being distributed. This allows the target state to retain extra objects.
+   3. You want to make sure that the target objects are **exacts replicas** of the source objects. If you distribute all objects, this will first clean the target state completely and create an exact replica of the source state. If you distribute only selected objects, each object will be cleaned and replaced separately. In this case, you want to use the "**Clean and replace target**" option.
+
+  
+8. Click on the **DISTRIBUTE**  button at the bottom. 
 
 ### **- Option 2: Distribute all objects to new instances.**
 
@@ -50,7 +53,12 @@ Starting from the CURRENT STATE, this will take you through a two-step operation
 
 In this case, all you need to do is to choose the instance creation method and provide the necessary information \(see [here](create-an-instance.md) for details\).
 
-#### 
+#### Notes on distribution to all instances
+
+Distribution to all instances bears special significance in the educational workflow: usually, you distribute new material to all instances, because you want to have each student to have the same material. When you distribute to all instances, in reality your first distribute to the special **Distributed** **instance**, and the objects will be distributed from there to all other instances subsequently. The reason for this behaviour is twofold:
+
+* You may distribute objects from the current state, which is mutable. Since distribution is not instantaneous, it could happen that you change the current state _during_ a distribution process, which would result in inconsistent states distributed to different instances. To avoid it, DataHub first distributes your current state to the **Distributed instance**, and from there _the same immutable state_ is distributed to all other instances. This ensures consistency between instances.  ![](../.gitbook/assets/info_simple.svg%20%281%29.png) For this very reason, you may only distribute to _exactly one_ target instance, if you're distributing from a mutable state. 
+* As you distribute more than once, sometimes maybe only selectively, the state of the student instances become more and more complex. But what if a new student comes along, and you're supposed to create the same "starting state" for him/her too? This is where the Distributed instance comes in handy: the **Distributed instance** contains the **cumulative result of your subsequent distributions**. To get your new student up to speed, just create a new instance from the last snapshot in the Distributed instance: it'll contain everything you've distributed so far. 
 
 #### ![](../.gitbook/assets/info_simple.svg.png)If you are encountering a problem distributing a snapshot, refer to the troubleshooting guide [here](../troubleshooting/authorization-issues/i-cant-distribute-a-snapshot.md). 
 
