@@ -2,15 +2,15 @@
 
 ## **To get started with a class, here are the steps to follow:**
 
-## 1- **Accept email invitation.**
+## 1- **Accept invitation.**
 
 Access to a class is by invitation only. Prospective participants receive the invite by email from the class instructor. To accept, click on the **Review** **Invitation** button.
 
 ![](../.gitbook/assets/screen-shot-2019-09-20-at-3.49.10-pm-2.png)
 
-### ![](../.gitbook/assets/info_simple.svg.png)**If you haven't received an invitation email, please check the troubleshooting documentation** [**here**](../troubleshooting/login-issues/i-havent-received-an-invitation-email.md)**.**
+### ![](../.gitbook/assets/info_simple.svg.png)**In case you haven't received an invitation email, please check the troubleshooting documentation available** [**here**](../troubleshooting/login-issues/i-havent-received-an-invitation-email.md)**.**
 
-After that, you will see a number of options to accept the invitation. If you are a member of a Swiss university, for example USI, then simply select the “**I have a Swiss University account**” option. In such case, you will be able to log in with your regular USI credentials. If you log in with your Swiss account, then you will accept the invitation and you will be logged in to DataHub. 
+Several options are currently available to accept the invitation. Members of a Swiss academic institution \(e.g. University of Lugano\), shall choose the “**I have a Swiss University account**” option. Sign in with your institution credentials. Contingent on successful authentication, the invitation is confirmed and automatically singed into DataHub.  
 
 ![](../.gitbook/assets/screen-shot-2019-09-20-at-3.54.27-pm-2.png)
 
