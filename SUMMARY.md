@@ -4,6 +4,7 @@
 * [Quickstart guide](quickstart/README.md)
   * [Setting up a class](quickstart/education.md)
   * [Setting up a research project](quickstart/research.md)
+  * [Getting started with a class](quickstart/getting-started-with-a-class.md)
 * [Structure of DataHub](data-organization/README.md)
   * [Organizations](data-organization/organizations.md)
   * [Spaces](data-organization/spaces.md)
