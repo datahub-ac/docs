@@ -4,7 +4,7 @@
 
 ## 1- **Accept the invitation sent to your email.**
 
-Each student of a class must receive an invitation email to their electronic mail which they provided to their teacher. Check your mailbox the teacher has sent the invitation to and accept the invitation. To accept the invitation, you first need to click on the **Review** **Invitation** button to start.
+Each student of a class must receive an invitation email to the email address which they provided to their teacher. Check your mailbox the teacher has sent the invitation to and accept the invitation. To accept the invitation, you first need to click on the **Review** **Invitation** button to start.
 
 ![](../.gitbook/assets/screen-shot-2019-09-20-at-3.49.10-pm-2.png)
 
@@ -16,17 +16,17 @@ After that, you will see a number of options to accept the invitation. If you ar
 
 ## 2- Locate and start/open your application
 
-Upon successful acceptance of the invitation, you will be logged in to DataHub.The first page you will is the Dashboard which displays which [organizations](../data-organization/organizations.md) you are member of and the most recent applications that were created and used.  
+Once logged in to DataHub, the first page you will is the Dashboard which displays which [organizations](../data-organization/organizations.md) you are member of, and the most recent applications that were created and used.  
   
-While in the dashboard, if you want to open an application and start working with it, then first locate the application under **Quick Access Applications,** then from the right side click on **START APPLICATION.** This will take you to the view where you can start interacting with the application. If you have already started the application, then instead of **START APPLICATION**, the button will be called **OPEN APPLICATION**. In the screenshot below, the user has one RStudio application.
-
-### ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LihBjXi93rsUENhHsab%2F-Lp3NGFCrRoUpqQTtdaw%2F-Lp3OSAbBBFjJ-9cs0Dz%2FInfo_Simple.svg.png?alt=media&token=b86c3ad7-3529-462f-b35e-3f150fc95b01)**Make sure that you do not simultaneously open the same application in separate tabs in your browser.**
+While in the dashboard, if you want to open an application and start working with it, then first locate the application under **Quick Access Applications,** then from the right side click on **START APPLICATION.** This will start your application and will take you to the view where you can start working with the application. If you have already started the application, then instead of **START APPLICATION**, the button will be called **OPEN APPLICATION**. In the screenshot below, the user has one RStudio application. **** 
 
 ![](../.gitbook/assets/screen-shot-2019-09-20-at-4.11.31-pm-2.png)
 
+### ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LihBjXi93rsUENhHsab%2F-Lp3NGFCrRoUpqQTtdaw%2F-Lp3OSAbBBFjJ-9cs0Dz%2FInfo_Simple.svg.png?alt=media&token=b86c3ad7-3529-462f-b35e-3f150fc95b01)**Make sure that you do not simultaneously open the same application in separate tabs in your browser.**
+
 ## ​3- Open and work with files from the application.
 
-When you open an application, you will have already your files and folder ready to be used. For example, assume you are working in an RStudio application and you have an R code inside a folder called week\_01.  Inside the application, you will see your folder under the **FILES** tab on the right. If you click on the folder, then you will be able to see the contents of it which will include the R code you are looking for. Clicking on the R file you will be able to see and work with it in the R console.
+When you open an application, you will have already your files and folder ready to be used. For example, suppose you are working with an RStudio application and you have an R code inside a folder called **week\_01**.  Inside the application, you will see your folder under the **FILES** tab on the right. If you click on the folder, then you will be able to see the contents of it which will include the R code you are looking for. Clicking on the R file, you will be able to see and work with it in the R console.
 
 ![](../.gitbook/assets/screen-shot-2019-09-20-at-4.50.17-pm-2.png)
 
