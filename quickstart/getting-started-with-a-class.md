@@ -2,9 +2,9 @@
 
 ## **To get started with a class, here are the steps to follow:**
 
-## 1- **Accept the invitation sent to your email.**
+## 1- **Accept email invitation.**
 
-Each student of a class must receive an invitation email to the email address which they provided to their teacher. Check your mailbox the teacher has sent the invitation to and accept the invitation. To accept the invitation, you first need to click on the **Review** **Invitation** button to start.
+Access to a class is by invitation only. Prospective participants receive the invite by email from the class instructor. To accept, click on the **Review** **Invitation** button.
 
 ![](../.gitbook/assets/screen-shot-2019-09-20-at-3.49.10-pm-2.png)
 
