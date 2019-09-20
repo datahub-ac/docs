@@ -1,6 +1,6 @@
 # Getting started with a class
 
-## **To get started with a class, here are the steps to follow**
+## **To get started with a class, here are the steps to follow:**
 
 ## 1- **Accept the invitation sent to your email.**
 
@@ -28,17 +28,19 @@ While in the dashboard, if you want to open an application and start working wit
 
 When you open an application, you will have already your files and folder ready to be used. For example, assume you are working in an RStudio application and you have an R code inside a folder called week\_01.  Inside the application, you will see your folder under the **FILES** tab on the right. If you click on the folder, then you will be able to see the contents of it which will include the R code you are looking for. Clicking on the R file you will be able to see and work with it in the R console.
 
+![](../.gitbook/assets/screen-shot-2019-09-20-at-4.50.17-pm-2.png)
+
 ## 4- How to work with another application?
 
-If you are currently working with an application, and you want to switch to another application, then first, from the top toolbar click on the three-lines icon in the top-left
+If you are currently working with an application, and you want to switch to another application, then first, from the top toolbar click on the three-lines icon in the top-left.
+
+### ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LihBjXi93rsUENhHsab%2F-Lp3NGFCrRoUpqQTtdaw%2F-Lp3OSAbBBFjJ-9cs0Dz%2FInfo_Simple.svg.png?alt=media&token=b86c3ad7-3529-462f-b35e-3f150fc95b01)With the toolbar icon in the top-left, you can get to your applications from anywhere in DataHub.
+
+![](../.gitbook/assets/screen-shot-2019-09-20-at-4.32.59-pm-2.png)
 
 And then you can either navigate to the dashboard where you can open another application from the Quick Access Applications list, or from the side bar you can select one of the running applications.
 
-
-
-
-
-
+![](../.gitbook/assets/screen-shot-2019-09-20-at-4.37.30-pm-2.png)
 
 
 
