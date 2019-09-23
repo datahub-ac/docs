@@ -1,6 +1,6 @@
 # Create an application
 
-![](../.gitbook/assets/info_simple.svg.png)**Before creating a new application**, that the right permissions are set up. Only _instance editors_ are allowed to create new applications in their instances. Please contact a space administrator or an instance editor to make sure that the right permissions are set up.
+![](../.gitbook/assets/info_simple.svg.png)**Before creating a new application**, make sure that the right permissions are set up. Only _instance editors_ are allowed to create new applications in their instances. Please contact a space administrator or an instance editor to make sure that the right permissions are set up.
 
 ![](../.gitbook/assets/info_simple.svg.png)**Upon successful completion of the operation**, the browser will be redirected to the application list view where the newly created application is visible and available for work.
 
