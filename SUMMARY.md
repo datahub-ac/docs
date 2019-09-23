@@ -1,10 +1,12 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Quickstart guide](quickstart/README.md)
-  * [Setting up a class](quickstart/education.md)
-  * [Setting up a research project](quickstart/research.md)
-  * [Getting started with a class](quickstart/getting-started-with-a-class.md)
+* [Quickstart guides](quickstart/README.md)
+  * [Faculty guides](quickstart/faculty-guides/README.md)
+    * [Setting up a research project](quickstart/faculty-guides/research.md)
+    * [Setting up a class](quickstart/faculty-guides/education.md)
+  * [Student guides](quickstart/student-guides/README.md)
+    * [Getting started with a class](quickstart/student-guides/getting-started-with-a-class.md)
 * [Structure of DataHub](data-organization/README.md)
   * [Organizations](data-organization/organizations.md)
   * [Spaces](data-organization/spaces.md)
