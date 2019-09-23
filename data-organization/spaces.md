@@ -34,12 +34,12 @@ Access of space contents \(database tables, files, etc.\) is controlled on the i
 
 **Visual representation**
 
-On the web UI, each user is able to browse and search the spaces he has access to. The following rules apply for deciding which spaces to display:
+On the web UI, each user is able to browse and search the spaces they have access to. The following rules apply for deciding which spaces to display:
 
-* If the user is not a viewer/editor of any of the views in the space, is not an admin of the space or a manager in the organization, she cannot see the space at all
-* If the user’s highest role is viewer on one or more views in the space, he can see the space and choose from all the views he has access to.
-* If the user’s highest role is an editor on one or more views in the space, she can see the space and choose from all the instances she has access to \(both viewer or editor\).
-* If the user is an administrator of the space, she can see the space and choose from all the instances in it.
-* If the user is org manager, he is a viewer in all instances of all spaces automatically.
-* If the user is a faculty member, she has no special rights. She cannot see the space if its administrator has not invited her.
+* If the user is not a viewer/editor of any of the views in the space, is not an admin of the space or a manager in the organization, they cannot see the space at all
+* If the user’s highest role is viewer on one or more views in the space, they can see the space and choose from all the views they have access to.
+* If the user’s highest role is an editor on one or more views in the space, they can see the space and choose from all the instances they have access to \(both viewer or editor\).
+* If the user is an administrator of the space, they can see the space and choose from all the instances in it.
+* If the user is org manager, they are a viewer in all instances of all spaces automatically.
+* If the user is a faculty member, they have no special rights. They cannot see the space if its administrator has not invited them.
 
