@@ -1,6 +1,6 @@
 # Find a space
 
-![](../.gitbook/assets/info_simple.svg.png)As a DataHub user, you will be able to see only the spaces of which you are a member of.
+![](../.gitbook/assets/info_simple.svg.png)As a DataHub user, you will be able to see only the spaces of which you are an administrator or a viewer.
 
 ## To find a space:
 
@@ -14,5 +14,7 @@ Select from the Dashboard the organization that contains the space and click on 
 
 
 
+**If you are encountering a problem finding a space, refer to the troubleshooting guide** [**here**](../troubleshooting/authorization-issues/cannot-see-a-space.md)**.**
 
+\*\*\*\*
 
