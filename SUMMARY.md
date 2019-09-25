@@ -33,6 +33,7 @@
   * [Revoke user access](actions/revoke-user-access.md)
   * [Share an update](actions/share-an-update.md)
   * [Find an organization](actions/find-an-organization.md)
+  * [Find a space](actions/find-a-space.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Login issues](troubleshooting/login-issues/README.md)
     * [I can't log in to DataHub](troubleshooting/login-issues/cannot-log-in-to-datahub.md)
