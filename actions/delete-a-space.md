@@ -1,8 +1,11 @@
 # Delete a space
 
-* Before deleting a space, make sure that the right permissions are set. Only the administrator of a space is allowed to delete it, otherwise the space administrator needs to be contacted in order for a space to be deleted. 
-* Upon successfully deleting a space, the web browser will be redirected to the view where the spaces in the current organization are displayed. 
-* Upon successful deletion of a space, data will be retained for a grace period of 24 hours. Once the grace period elapses, the will be completely deleted from DataHub. 
+![](../.gitbook/assets/info_simple.svg.png)Before deleting a space, make sure that the right permissions are set. Only the administrator of a space is allowed to delete it, otherwise the space administrator needs to be contacted in order for a space to be deleted.
+
+![](../.gitbook/assets/info_simple.svg.png)Contingent on successful space deletion, the web browser will be redirected to the view where the spaces in the current organization are displayed.
+
+![](../.gitbook/assets/info_simple.svg.png)Contingent on successful space deletion, data will be retained for a grace period of 24 hours. Once the grace period elapses, the data will be completely deleted from DataHub.  
+
 
 **To delete a space:**
 
