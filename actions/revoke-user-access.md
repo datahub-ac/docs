@@ -1,8 +1,5 @@
 # Revoke user access
 
-![](../.gitbook/assets/info_simple.svg.png)Only manager can revoke organization-level access  
-Only space administrator
-
 ## 1. Remove user from instance.
 
 ![](../.gitbook/assets/info_simple.svg.png)Only space administrators have the permission to remove users from an instance.  
