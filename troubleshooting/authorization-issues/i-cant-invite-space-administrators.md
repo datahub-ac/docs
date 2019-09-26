@@ -12,13 +12,13 @@ If you provide a user email that is invalid, e.g. **myemail@.uni.edu.com**, then
 
 * **You are inviting users to a deleted space.**
 
-A space might disappear because it was deleted. If you are the space administrator, then you can [recover](../../actions/delete-a-space.md) the deleted instance within 24 hours of the deletion time. If you are not the space admin, then you can contact a space admin and ask if the instance or could be restored.
+A space might disappear because it was deleted. If you are the space administrator, then you can [recover](../../actions/delete-a-space.md) the deleted space within 24 hours of the deletion time. If you are not the space admin, then you can contact a space admin and ask if the space could be restored.
 
 * **You have lost connection to the internet.**
 
 If you lose your internet connection, the user invitation request might not reach the server and therefore the invitations might not be sent. Make sure you restore your connection,  refresh the page and try to invite the users again.
 
-* **There has been a server-side error and the application stop data was not properly served by DataHub.**
+* **There has been a server-side error and the invitation request was not properly served by DataHub.**
 
 In some cases, it might happen that a server-side error occurs such that the invitation request is not processed properly, making it impossible to invite space administrators. Wait for a few minutes, refresh the page and then try to invite the users again.  
 
