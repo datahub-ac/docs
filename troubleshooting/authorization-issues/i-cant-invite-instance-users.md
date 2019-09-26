@@ -10,6 +10,10 @@ To invite users to an instance, you need to be a space administrator of the spac
 
 To invite instance users, you can do it for all instances except for the _Distributed_ instance. Make sure you don't select the Distributed instance.
 
+* **One or more of the provided emails is invalid.**
+
+If you provide a user email that is invalid, e.g. **myemail@.uni.edu.com**, then you won't be able to send the invitation request until you fix the typos or errors in these invalid emails.
+
 * **You are inviting users to a deleted instance.**
 
 An instance might disappear because it was deleted. If you are the instance editor or space admin, then you can [recover](../../actions/delete-an-instance.md) the deleted instance within 24 hours of the deletion time. If you are not the instance editor, then you can contact the editor or the space admin and ask if the instance or could be restored.
@@ -20,7 +24,7 @@ If you lose your internet connection, the user invitation request might not reac
 
 * **There has been a server-side error and the application stop data was not properly served by DataHub.**
 
-In some cases, it might happen that a server-side error occurs such that the distribute request is not processed properly, making it impossible to invite instance users. Wait for a few minutes, refresh the page and then try to invite the users again.  
+In some cases, it might happen that a server-side error occurs such that the invitation request is not processed properly, making it impossible to invite instance users. Wait for a few minutes, refresh the page and then try to invite the users again.  
 
 
 ### None of these solutions worked - how to proceed?

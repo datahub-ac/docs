@@ -61,6 +61,7 @@
     * [I can't delete a snapshot](troubleshooting/authorization-issues/cannot-delete-a-snapshot.md)
     * [I can't distribute a snapshot](troubleshooting/authorization-issues/i-cant-distribute-a-snapshot.md)
     * [I can't invite instance users](troubleshooting/authorization-issues/i-cant-invite-instance-users.md)
+    * [I can't invite space administrators](troubleshooting/authorization-issues/i-cant-invite-space-administrators.md)
     * [Accidental data loss](troubleshooting/authorization-issues/accidental-data-loss/README.md)
       * [Deleted a space](troubleshooting/authorization-issues/accidental-data-loss/deleted-a-space-by-mistake.md)
       * [Deleted an instance](troubleshooting/authorization-issues/accidental-data-loss/deleted-an-instance-by-mistake.md)

@@ -4,10 +4,12 @@
 
 ![](../.gitbook/assets/info_simple.svg.png)Before granting access rights to a space, make sure that the right permissions are set. Only space admins, org managers, and faculty members are allowed to invite others to become space admins.
 
-**To invite a space admin:**
+## **To invite a space admin:**
 
-1. Select a space. This can be done by first selecting an organization from the list of organizations you are member of. A list of your organizations is available in the dashboard. 
+1. Find and select the space you want to invite users to. For instructions on how to find a space, check the documentation available [here](find-a-space.md). 
 2. From the sidebar on the left, click on **Invite Space Admins.** 
-3. Provide the emails of the persons you want to invite as space admins. 
-4. Click on invite.
+3. Provide the emails of the users you want to invite to the space. 
+4. Click on **Invite**.
+
+![](../.gitbook/assets/screen-shot-2019-09-26-at-10.02.16-am.png)
 
