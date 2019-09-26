@@ -13,6 +13,7 @@
   * [Spaces](data-organization/spaces.md)
   * [Instances](data-organization/instances.md)
   * [States and snapshots](data-organization/snapshots.md)
+  * [Applications](data-organization/applications.md)
 * [How to](actions/README.md)
   * [Create a space](actions/create-a-space.md)
   * [Create an instance](actions/create-an-instance.md)
