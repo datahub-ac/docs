@@ -1,4 +1,4 @@
-# I can't log in to DataHub
+# I can't log in to AAP
 
 #### If you're having trouble logging into your DataHub account, here are some fixes you can try:
 

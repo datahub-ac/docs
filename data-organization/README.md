@@ -1,4 +1,4 @@
-# Structure of DataHub
+# Structure of AAP
 
 Most of the user work in DataHub happens in confined single- or multi-user environments called _spaces_. A space stores the files \(code and data files\), database tables, and applications related to a specific academic activity. 
 
