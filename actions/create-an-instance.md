@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/info_simple.svg.png)**Upon successful creation** **of a single-user or a group-user instance**, the browser will be redirected to view the newly created instance.
 
-![](../.gitbook/assets/info_simple.svg.png)**Upon successful creation of multiple instances**, the browser will be redirected to the original page.
+![](../.gitbook/assets/info_simple.svg.png)**Upon successful creation of multiple instances**, the browser will be redirected to the space view where instances are displayed.
 
 ## **There are two options to create an instance:**
 
@@ -12,7 +12,7 @@
 
 ![](../.gitbook/assets/info_simple.svg.png)**In many cases, the space administrator might want to create one or more instances and include in them the entire content or selected objects from the Current State or a snapshot. This option might be preferred by many as it saves time if the intention is to create instances that also have contents.**
 
-1. Follow the steps detailed [here](distribute-a-snapshot.md) for distributing objects. After than, follow the instructions provided in step 2. 
+1. Follow the steps detailed [here](distribute-a-snapshot.md) for distributing objects. After that, follow the instructions provided in step 2. 
 2. Choose the type of instance that is to be created  
 
 

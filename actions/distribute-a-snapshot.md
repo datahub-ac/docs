@@ -7,11 +7,11 @@ description: >-
 
 # Distribute objects
 
-![](../.gitbook/assets/info_simple.svg.png)DataHub allows you to distribute the entire contents of your current state or a snapshot, otherwise you can distribute a few selected objects.
+![](../.gitbook/assets/info_simple.svg.png)AAP allows you to distribute the entire contents of your current state or a snapshot, otherwise you can distribute a few selected objects.
 
 ![](../.gitbook/assets/info_simple.svg.png)Whether you choose to distribute the entire contents of a snapshot \(or current state\) or selected objects, a backup snapshot of the current state of the target instance will automatically be created before the merge.
 
-![](../.gitbook/assets/info_simple.svg.png)When you press the button to distribute, the actual operation will be scheduled and executed in the background. Upon completion, you will receive a notification email at your registered email address confirming the success or failure or the task.
+![](../.gitbook/assets/info_simple.svg.png)When you press the button to distribute, the actual operation will be scheduled and executed in the background. Upon completion, you will receive a notification email at your registered email address confirming the success or failure of the task.
 
 ## **There are two options to distribute objects:**
 
@@ -19,12 +19,12 @@ description: >-
 
 ![](../.gitbook/assets/info_simple.svg.png)**This option assumes that the instances with which you want to share the objects exist already.**
 
-1. Navigate to the instance view where the list of mutable and immutable states are displayed.This can be done by clicking on level 3 \(Instance\) from the side bar, or by selecting an organization from the dashboard, then a space, and then an instance. 
-2. Click OPEN CURRENT STATE or select one of the snapshots listed under Immutable States. 
-3. If you want to distribute specific files or folders, then check the checkbox for the desired files/folders, and click the STAGE button from the menu above. There are three types of files you can select: workplace, personal, and application files. Only one type of files can be added to stage at a time.  If you want to distribute everything in your current state/snapshot, then go to the next step directly. 
-4. From the sidebar on the left, click on DISTRIBUTE OBJECTS. 
-5. Choose whether you want to distribute the files you staged in step 3, or the entire state. 
-6. Next, select the target organization and space to distribute to. In the selected space, you can choose to distribute to all instances or just a subset of them \(Please check [Notes on distribution to all instances](distribute-a-snapshot.md#notes-on-distribution-to-all-instances) about possible restrictions\). 
+1. Open a state \(current state or an immutable snapshot\) 
+2. If you want to distribute specific files or folders, you can use the STAGE button under the actions column in the table. The stage button is available for files, tables, and applications. 
+3. If you want to distribute everything in your current state/snapshot, then go to the next step directly. 
+4. From the sidebar on the left, click on STAGE. 
+5. Choose whether you want to distribute the files you staged in step 3, or the the entire state. 
+6. Next, select the target organization and space to which you want to distribute. In the selected space, you can choose to distribute to all instances or just a subset of them \(Please check [Notes on distribution to all instances](distribute-a-snapshot.md#notes-on-distribution-to-all-instances) about possible restrictions\). 
 7. Select the distribution strategy for each of the three file types. The distribution strategy determines how to resolve potential conflicts between the state you're distributing from and the state you're distributing to. DataHub provides the following strategies for the respective use cases: 
    1. You want to distribute **extra objects** only, e.g. you want to distribute new pdf file\(s\) to all other instances. However, you don't want to overwrite any changes to files you have distributed earlier, because e.g. your students were supposed to work on the notebook you distributed yesterday. In this case, you want to use the "**Distribute extra objects \(files and tables\) compared to target**" option.
    2. You want to distribute the current state of your objects to the target state, even if it means **overwriting existing objects**. This is usually relevant if you want to e.g. distribute solution\(s\) to replace the previously distributed exercise file\(s\). After the distribute, each instance will have your version of the solution, while any original work done on the objects will still be accessible in the immutable snapshots taken before the distribution was carried out. In this case, you want to use the "**Distribute all objects \(overwrite target\)**" option.  Note that any additional files will be retained in the target state that are not contained in the state being distributed. This allows the target state to retain extra objects.
@@ -35,15 +35,13 @@ description: >-
 
 ### **- Option 2: Distribute all objects to new instances.**
 
-![](../.gitbook/assets/info_simple.svg.png)**With** t**his option, you can only distribute the entire content of your current state/snapshot. For the Current State, this option will be available only if you haven't shared any full snapshot of the current state with other instance in your current space. For immutable states, the option is always available.**
+![](../.gitbook/assets/info_simple.svg.png)**With** t**his option, you can only distribute the ENTIRE contents \(files, tables, and applications\) of your current state/snapshot and not selected files. For the Current State, this option will be available only if you haven't shared any full snapshot of the current state with other instance in your current space. For immutable states, the option is always available.**
 
-1. Navigate to the instance view where the list of snapshots within an instance is visible. This can be done by clicking on level 3 \(Instance\) from the side bar. 
-2. Click either on OPEN CURRENT STATE or select one of the snapshots under immutable states. 
-3. According to your choice in step 2, you would see either of two options:
+1. Open a state \(current state or an immutable snapshot\).
+
+2. According to your choice in step 2, you would see either of two options:
 
 * If your choice was CURRENT STATE, then at the top of the page you will see the following banner and you have to click on INVITE AND SHARE STATE.
-
-![](../.gitbook/assets/distribute.png)
 
 Starting from the CURRENT STATE, this will take you through a two-step operation where you first create a snapshot, and then you create one or more instances. First you need to provide a name and description of the snapshot, as well as a description of the next work phase. The next work phase description will be used to update the description of the current state. If no work is expected in the near future, tick the "No work is expected in the next stage" button. Once you create a snapshot, then you will be asked to choose the instance creation method and provide the necessary information\(see [here](create-an-instance.md) for details\).
 
