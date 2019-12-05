@@ -40,7 +40,7 @@
   * [Find a Snapshot/Current State](actions/find-a-snapshot-current-state.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Login issues](troubleshooting/login-issues/README.md)
-    * [I can't log in to AAP](troubleshooting/login-issues/cannot-log-in-to-datahub.md)
+    * [I can't log in to Nuvolos](troubleshooting/login-issues/cannot-log-in-to-datahub.md)
     * [I forgot my password](troubleshooting/login-issues/forgot-my-password.md)
     * [I forgot my e-mail address for sign-in](troubleshooting/login-issues/forgot-the-email-address-you-use-to-sign-in.md)
     * [I haven't received the password reset e-mail](troubleshooting/login-issues/havent-received-password-reset-email.md)
