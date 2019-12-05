@@ -2,7 +2,7 @@
 
 ## Overview
 
-DataHub supports reproducible research and safe work organization by guaranteeing that a state of a research project can be immutably saved and restored at will.
+Nuvolos supports reproducible research and safe work organization by guaranteeing that a state of a research project can be immutably saved and restored at will.
 
 Each instance consists of _states_. A state is a collection of data, code and applications at a given point in time. The _current state_ is the only mutable state: it is the only state in an instance that can be modified. Working in the current state, you can upload, delete, rename, and work with files and tables, as well as create and start applications.   
   
@@ -11,13 +11,13 @@ Other states are called _snapshots._ A snapshot is an immutable state. Snapshots
 ## Features
 
 * **Complete:** A snapshot encompasses all relevant information of the state of a research project for complete reproducibility. Not only data and code is saved, but also applications and their software dependencies. 
-* **Restorable:** A snapshot can be restored to be the current state, and DataHub ensures that the restored state will be consistent with previous behaviour of the same state. 
+* **Restorable:** A snapshot can be restored to be the current state, and Nuvolos ensures that the restored state will be consistent with previous behaviour of the same state. 
 * **Distributable:** A snapshot can be distributed to the current state of other instances. This facilitates the dissemination of teaching material or results. 
-* **Simple:** Creation of a snapshot requires one simple operation; DataHub ensures the completeness of the operation, and the end-user does not have to tally each step required.
+* **Simple:** Creation of a snapshot requires one simple operation; Nuvolos ensures the completeness of the operation, and the end-user does not have to tally each step required.
 
 ## Access control
 
-On each structural level of DataHub, a variety of user roles are defined to control access and possible actions of users. 
+On each structural level of Nuvolos, a variety of user roles are defined to control access and possible actions of users. 
 
 Access control of snapshots is controlled on the _instance_ level. The following rules hold:
 
