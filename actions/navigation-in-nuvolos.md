@@ -60,7 +60,7 @@ From top to bottom the icons will transport the user to the following views \(al
 * Tables
 * Applications
 * Snapshot creation
-* Staging
+* Staging and distribution
 
 Similar to the expanded sidebar, the currently active view is highlighted with a darker background.
 
