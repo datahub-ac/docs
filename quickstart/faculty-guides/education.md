@@ -1,6 +1,6 @@
 # Setting up a class
 
-DataHub is an ideal solution for conducting educational activities such as teaching a university class, offering a summer school, organizing hands-on sessions, giving interactive presentations, and other academic training programs.
+Nuvolos is an ideal solution for conducting educational activities such as teaching a university class, offering a summer school, organizing hands-on sessions, giving interactive presentations, and other academic training programs.
 
 Classes with a substantial empirical or data-driven component often involve operations such as the collection, preparation and sharing of data, files, assignments and solutions between teachers and students, the installation and configuration of computational tools on various operating systems, the writing, execution, and sharing of code, and finally the production and re-production of analytical results. The more students a class has, the more it will result challenging to organize all these processes reliably and efficiently.
 
@@ -8,7 +8,7 @@ In this tutorial, you will learn how to set up a class with several students and
 
 ## Step 1: Create a space for the class.
 
-To start a class, you have to create a space for it. Before creating a space, you have to select the organization where you want the class to be offered. Once you log in to DataHub, a dashboard will be displayed where you can see all the organizations of which you are a member. From the dashboard, you can select the organization you want to work in. Once you have chosen the organization, create a space for your class following the steps described [here](../../actions/create-a-space.md).
+To start a class, you have to create a space for it. Before creating a space, you have to select the organization where you want the class to be offered. Once you log in to Nuvolos, a dashboard will be displayed where you can see all the organizations of which you are a member. From the dashboard, you can select the organization you want to work in. Once you have chosen the organization, create a space for your class following the steps described [here](../../actions/create-a-space.md).
 
 ## Step 2: Upload files to your instance.
 
@@ -20,9 +20,9 @@ To work with your files, you will need to create and start an application. Say f
 
 ## Step 4: Invite students to join the class.
 
-To add students to your class, you need to send an invitation to each student to join the space you have created in DataHub. As a space admin, you will be assigned the MASTER instance which you will use to interact with your students. Students instead will be invited to join DataHub, and a separate instance can be created for each student.   
+To add students to your class, you need to send an invitation to each student to join the space you have created in Nuvolos. As a space admin, you will be assigned the MASTER instance which you will use to interact with your students. Students instead will be invited to join Nuvolos, and a separate instance can be created for each student.   
   
-To invite students, you first have to collect their email addresses to which you want to send the invitation. Once you have collected the emails, then you have to decide between creating an empty instance for each student, meaning that they will not have files in their work environment when they join DataHub, or you can share files with the instances to be created for each student. To invite students using one of these two options, follow the steps detailed [here](../../actions/create-an-instance.md).
+To invite students, you first have to collect their email addresses to which you want to send the invitation. Once you have collected the emails, then you have to decide between creating an empty instance for each student, meaning that they will not have files in their work environment when they join Nuvolos, or you can share files with the instances to be created for each student. To invite students using one of these two options, follow the steps detailed [here](../../actions/create-an-instance.md).
 
 ## Step 5: Share updates with the students.
 

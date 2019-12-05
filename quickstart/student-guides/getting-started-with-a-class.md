@@ -16,7 +16,7 @@ Several options are currently available to accept the invitation. If you are a m
 
 ## 2. Start application
 
-The DataHub Dashboard home page provides useful at-a-glance information about the status of your applications and your membership in [organizations](http:///@alphacruncher-1/s/datahub/~/drafts/-LpMzyPUrAQ03FcWCTT_/primary/data-organization/organizations). Use the links on the right side of each application to manage it, e.g. to  **START** or **STOP** it. The screenshot below exemplifies an RStudio application deployed and ready to start.
+The Nuvolos Dashboard home page provides useful at-a-glance information about the status of your applications and your membership in [organizations](http:///@alphacruncher-1/s/datahub/~/drafts/-LpMzyPUrAQ03FcWCTT_/primary/data-organization/organizations). Use the links on the right side of each application to manage it, e.g. to  **START** or **STOP** it. The screenshot below exemplifies an RStudio application deployed and ready to start.
 
 ![](../../.gitbook/assets/screen-shot-2019-09-20-at-4.11.31-pm-2.png)
 
@@ -30,7 +30,7 @@ Teaching material, e.g. example code or assignments, can be distributed by the i
 
 ## 4. Switch to another application?
 
-Use the hamburger button \(three-lines icon in the top-left corner\) of the DataHub toolbar to toggle the navigation menu.
+Use the hamburger button \(three-lines icon in the top-left corner\) of the Nuvolos toolbar to toggle the navigation menu.
 
 ![](../../.gitbook/assets/screen-shot-2019-09-20-at-4.32.59-pm-2.png)
 
