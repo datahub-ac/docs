@@ -12,7 +12,7 @@ If you provide a user email that is invalid, e.g. **myemail@.uni.edu.com**, then
 
 * **You are inviting users to a deleted space.**
 
-A space might disappear because it was deleted. If you are the space administrator, then you can [recover](../../actions/delete-a-space.md) the deleted space within 24 hours of the deletion time. If you are not the space admin, then you can contact a space admin and ask if the space could be restored.
+A space might disappear because it was deleted. If you are the space administrator, then you can [recover](../../actions/organization-management/delete-a-space.md) the deleted space within 24 hours of the deletion time. If you are not the space admin, then you can contact a space admin and ask if the space could be restored.
 
 * **You have lost connection to the internet.**
 

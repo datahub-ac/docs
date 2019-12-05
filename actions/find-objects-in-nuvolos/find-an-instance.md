@@ -1,6 +1,6 @@
 # Find an instance
 
-![](../.gitbook/assets/info_simple.svg.png)As a DataHub user, you will be able to see only the instances of which you are an editor or viewer.
+![](../../.gitbook/assets/info_simple.svg.png)As a DataHub user, you will be able to see only the instances of which you are an editor or viewer.
 
 ## To find an instance:
 
@@ -18,7 +18,7 @@ When you select a space, you will be able to view and select any of the listed i
 
  
 
-![](../.gitbook/assets/screen-shot-2019-09-25-at-3.51.41-pm-2.png)
+![](../../.gitbook/assets/screen-shot-2019-09-25-at-3.51.41-pm-2.png)
 
 
 

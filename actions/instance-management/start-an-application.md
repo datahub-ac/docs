@@ -1,6 +1,6 @@
 # Work with applications and files
 
-![](../.gitbook/assets/info_simple.svg.png)Before working with files and applications, make sure that you have the right permissions. Only instance editors are allowed to interact and modify applications and files. It is possible to request editor rights from a space administrator. It is also possible to push the contents of an instance to another instance with the right permission setup by requesting the editor of the source instance to  [share](distribute-a-snapshot.md) their content.
+![](../../.gitbook/assets/info_simple.svg.png)Before working with files and applications, make sure that you have the right permissions. Only instance editors are allowed to interact and modify applications and files. It is possible to request editor rights from a space administrator. It is also possible to push the contents of an instance to another instance with the right permission setup by requesting the editor of the source instance to  [share](distribute-a-snapshot.md) their content.
 
 ## **To start an application:**
 

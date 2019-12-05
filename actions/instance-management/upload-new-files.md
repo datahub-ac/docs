@@ -1,6 +1,6 @@
 # Upload new files
 
-![](../.gitbook/assets/info_simple.svg.png)Uploading files is possible only to the current state of an instance. Before uploading new files, make sure the right privileges are granted: only _instance editors_ are allowed to upload new files to a current state. An _instance editor_ can be contacted for file uploading, or a _space administrator_ can grant editor privileges in the instance.
+![](../../.gitbook/assets/info_simple.svg.png)Uploading files is possible only to the current state of an instance. Before uploading new files, make sure the right privileges are granted: only _instance editors_ are allowed to upload new files to a current state. An _instance editor_ can be contacted for file uploading, or a _space administrator_ can grant editor privileges in the instance.
 
 **To upload new files:**
 
@@ -12,7 +12,7 @@
 
 
 
-#### ![](../.gitbook/assets/info_simple.svg.png)If you are encountering a problem deleting a space, refer to the troubleshooting guide [here](../troubleshooting/authorization-issues/cannot-upload-a-file.md).
+#### ![](../../.gitbook/assets/info_simple.svg.png)If you are encountering a problem deleting a space, refer to the troubleshooting guide [here](../../troubleshooting/authorization-issues/cannot-upload-a-file.md).
 
 \*\*\*\*
 
