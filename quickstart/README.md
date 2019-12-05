@@ -2,7 +2,7 @@
 
 A variety of academic activities involve storing and sharing of files, code, tables and applications bundled together. These activities include teaching an analytical course, conducting empirical or data-driven analysis, collaborating with multiple colleagues on a research project or teaching a summer school. Efficiently organising and managing all of the data, applications and code with the minimal time and resources is increasingly becoming a challenging problem.
 
-**Nuvolos offers the best solution to overcome this problem. With Nuvolos, it is possible to:**
+Nuvolos offers the best solution to overcome this problem. **With Nuvolos, it is possible to:**
 
 1. **Store files, data, code and applications** using a user-friendly, browser-based platform.  
 2. **Share files, data, code and applications** with colleagues or students, without having to worry about differences of operating systems, missing packages, or lack of computation or storage capacity. It's all done in the browser, with guaranteed scalability and zero maintenance. 
