@@ -8,7 +8,7 @@
   * [Student guides](quickstart/student-guides/README.md)
     * [Getting started with a class](quickstart/student-guides/getting-started-with-a-class.md)
     * [Review distributed material](quickstart/student-guides/review-distributed-material.md)
-* [Structure of AAP](data-organization/README.md)
+* [Structure of Nuvolos](data-organization/README.md)
   * [Organizations](data-organization/organizations.md)
   * [Spaces](data-organization/spaces.md)
   * [Instances](data-organization/instances.md)

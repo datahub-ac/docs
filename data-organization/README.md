@@ -1,4 +1,4 @@
-# Structure of AAP
+# Structure of Nuvolos
 
 Most of the user work in Nuvolos happens in confined single- or multi-user environments called _spaces_. A space stores the files \(code and data files\), database tables, and applications related to a specific academic activity. 
 
