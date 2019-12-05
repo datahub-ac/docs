@@ -20,7 +20,7 @@ To see the shared, you must be in the **CURRENT STATE** of the instance with whi
 
 * **You restored a previous snapshot**
 
-If, after having received shared contents from another member, you restore one of your snapshots, then the contents of the current state will be completely replaced by the contents of the restored snapshot. If you have accidentally restored a snapshot, check [here](../../accidental-content-change/restored-a-snapshot-by-mistake.md) for how to revert this operation.
+If, after having received shared contents from another member, you restore one of your snapshots, then the contents of the current state will be completely replaced by the contents of the restored snapshot. If you have accidentally restored a snapshot, check [here](../accidental-content-change/restored-a-snapshot-by-mistake.md) for how to revert this operation.
 
 * **You have lost connection to the internet.**
 
