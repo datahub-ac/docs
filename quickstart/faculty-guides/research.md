@@ -2,13 +2,13 @@
 
 Research projects are often group projects with complex and recurring interactions involving the collection, cleaning, and storage of data, the sharing of data between researchers, the sharing of different versions of code and files, the production and re-production or results, and the exchange of feedback.
 
-AAP offers an efficient and organized solution for conducting research projects that aim to maximize both research productivity and reproducibility. Different versions of work \(files, data, and applications\) can be packaged together, shared easily with other colleagues who can run the analysis and reproduce the same results. New results can be related to past outcomes with confidence as different components of the research process \(data vintage, pre-processing, analysis approach\) can be separately altered whilst keeping other components fixed. All of these steps are done within AAP platform.
+Nuvolos offers an efficient and organized solution for conducting research projects that aim to maximize both research productivity and reproducibility. Different versions of work \(files, data, and applications\) can be packaged together, shared easily with other colleagues who can run the analysis and reproduce the same results. New results can be related to past outcomes with confidence as different components of the research process \(data vintage, pre-processing, analysis approach\) can be separately altered whilst keeping other components fixed. All of these steps are done within Nuvolos platform.
 
 In this tutorial, you will learn how to set up a research project with multiple collaborators and manage the storing and sharing of different versions of work.
 
 ## Step 1: Create a space for the research project.
 
-To start a research project, you have to create a space for it. Before creating a space, you have to select the organization where you want the research project to be hosted. Once you log in to AAP, a dashboard will be displayed from which you can select the organization you want to work in. A default organization is selected automatically at login. Once you have chosen the organization, create a space for your research project following the steps described [here](../../actions/create-a-space.md).
+To start a research project, you have to create a space for it. Before creating a space, you have to select the organization where you want the research project to be hosted. Once you log in to Nuvolos, a dashboard will be displayed from which you can select the organization you want to work in. A default organization is selected automatically at login. Once you have chosen the organization, create a space for your research project following the steps described [here](../../actions/create-a-space.md).
 
 ## Step 2: Upload files to your instance.
 
@@ -20,9 +20,9 @@ To work with your files, you will need to create and start an application. Say f
 
 ## Step 4: Invite researchers to join the research project.
 
-To add researcher to your project, you need to send an invitation to each researcher to join the space you have created in AAP. As a space admin, you will be assigned a MASTER instance which you will use to interact with your collaborators. Collaborators instead will be invited to join AAP, and a separate instance will be created for each collaborator.   
+To add researcher to your project, you need to send an invitation to each researcher to join the space you have created in Nuvolos. As a space admin, you will be assigned a MASTER instance which you will use to interact with your collaborators. Collaborators instead will be invited to join Nuvolos, and a separate instance will be created for each collaborator.   
   
-To invite collaborators, you first have to collect their email addresses to which you want to send the invitation. Once you have collected the emails, then you have to decide between creating an empty instance for each collaborator, meaning that they will not have files or other objects in their work environment when they join AAP, or you can share files and objects with the instances to be created for each collaborator. To invite collaborators using one of these two options, follow the steps detailed [here](../../actions/create-an-instance.md).
+To invite collaborators, you first have to collect their email addresses to which you want to send the invitation. Once you have collected the emails, then you have to decide between creating an empty instance for each collaborator, meaning that they will not have files or other objects in their work environment when they join Nuvolos, or you can share files and objects with the instances to be created for each collaborator. To invite collaborators using one of these two options, follow the steps detailed [here](../../actions/create-an-instance.md).
 
 ## Step 5: Share updates with your collaborators.
 
