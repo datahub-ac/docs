@@ -15,6 +15,7 @@
   * [States and snapshots](data-organization/snapshots.md)
   * [Applications](data-organization/applications.md)
 * [How to](actions/README.md)
+  * [Space management](actions/space-management.md)
   * [Create a space](actions/create-a-space.md)
   * [Create an instance](actions/create-an-instance.md)
   * [Create a snapshot](actions/create-a-snapshot.md)
