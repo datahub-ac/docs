@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Our features](our-features/README.md)
+  * [Snapshotting](our-features/snapshotting.md)
 * [Quickstart guides](quickstart/README.md)
   * [Faculty guides](quickstart/faculty-guides/README.md)
     * [Setting up a research project](quickstart/faculty-guides/research.md)

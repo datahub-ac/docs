@@ -4,15 +4,22 @@ description: How to find your way around Nuvolos
 
 # Navigation in Nuvolos
 
-Navigation in Nuvolos is closely linked to the [structure of Nuvolos](../data-organization/).  The key to locating where you are is to always check two elements on the user interface:
+Navigation in Nuvolos is closely linked to the [structure of Nuvolos](../data-organization/). You can understand your position and navigate using the following highlighted parts of the user interface.
 
-* The **breadcrumb,**
-* the **navigational sidebar,**
-* and the **organization selection**.
+![](../.gitbook/assets/dashboard_nav.png)
+
+1. The **Nuvolos** logo,
+2. The **breadcrumb,**
+3. the **navigational sidebar,**
+4. and the **organization selection**.
+
+### The Nuvolos logo
+
+The nuvolos logo will always take you to your _Dashboard._
 
 ## The breadcrumb
 
-The breadcrumb is a sequence of hyperlinks to levels above the current level you are staying in. It is always found right under the header. For example, if you are looking at a state overview, the breadcrumb will look like the following:
+The breadcrumb is a sequence of hyperlinks to levels above the current level you are staying in. For example, if you are looking at a state overview, the breadcrumb will look like the following:
 
 ![](../.gitbook/assets/breadcrumb.PNG)
 
@@ -63,6 +70,10 @@ From top to bottom the icons will transport the user to the following views \(al
 * Staging and distribution
 
 Similar to the expanded sidebar, the currently active view is highlighted with a darker background.
+
+### The organization selection
+
+Organizations serve as the highest structural level in Nuvolos. Depending on which organization you are working in, you will be able to access different datasets, different research projects and classes. Consequently, if you cannot find a certain project, always check the organization selection that is available on top.
 
 
 
