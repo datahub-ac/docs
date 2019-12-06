@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Our features](our-features/README.md)
   * [Snapshotting](our-features/snapshotting.md)
+  * [Data integration](our-features/data-integration.md)
 * [Quickstart guides](quickstart/README.md)
   * [Faculty guides](quickstart/faculty-guides/README.md)
     * [Setting up a research project](quickstart/faculty-guides/research.md)
