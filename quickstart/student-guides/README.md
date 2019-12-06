@@ -1,2 +1,2 @@
-# Student guides
+# End user guides
 

@@ -2,7 +2,7 @@
 description: Get started quickly with Nuvolos - a feature overview
 ---
 
-# Quickstart guides
+# Workflow guides
 
 A variety of academic activities involve storing and sharing of files, code, tables and applications bundled together or separately. These activities include teaching an analytical course, conducting empirical or data-driven analysis, collaborating with multiple colleagues on a research project or teaching a summer school. Efficiently organising and managing all of the data, applications and code with the minimal time and resources is increasingly becoming a challenging problem.
 

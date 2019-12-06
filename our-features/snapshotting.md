@@ -1,5 +1,7 @@
 ---
-description: What is it and why is it useful?
+description: >-
+  A key feature for reproducible research and a more documented, tractable
+  workflow
 ---
 
 # Snapshotting
