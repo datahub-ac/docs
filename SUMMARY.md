@@ -6,6 +6,7 @@
   * [Distribution](our-features/distribution.md)
   * [Data integration](our-features/data-integration.md)
 * [Workflow guides](quickstart/README.md)
+  * [Getting started with Nuvolos](quickstart/getting-started-with-nuvolos.md)
   * [Faculty guides](quickstart/faculty-guides/README.md)
     * [Setting up a research project](quickstart/faculty-guides/research.md)
     * [Setting up a class](quickstart/faculty-guides/education.md)
