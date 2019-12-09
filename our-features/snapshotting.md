@@ -16,7 +16,7 @@ Nuvolos ensures that the copy of the current state is complete. This means that 
 
 ### Immutability
 
-Nuvolos ensures that the copy created cannot be modified after the fact.
+Nuvolos ensures that the copy created of your work cannot be modified after the fact.
 
 ### Persistence
 
@@ -46,5 +46,7 @@ You can set up a class by first building and testing your material. Once you are
 
 Once the new research project member becomes at Nuvolos, you can distribute the current state of your project to them and they can start their work, without the need to spend valuable time worrying about setting up their infrastructure just the right way.
 
-### 
+### Create an audit trail for assignments
+
+Students also have the ability to take snapshot of their work. A snapshot is always time-stamped, and greatly simplifies handling in assignment. The student does not need to worry whether their work is reproducible, and the educator does not have to worry about managing a myriad of files and e-mails.
 

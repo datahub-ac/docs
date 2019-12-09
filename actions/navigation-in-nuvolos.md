@@ -2,7 +2,7 @@
 description: How to find your way around Nuvolos
 ---
 
-# Navigation in Nuvolos
+# Navigate in Nuvolos
 
 Navigation in Nuvolos is closely linked to the [structure of Nuvolos](../data-organization/). You can understand your position and navigate using the following highlighted parts of the user interface.
 
