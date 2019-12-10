@@ -26,8 +26,8 @@ If you want to use Nuvolos-hosted R \(via RStudio\), the data access will be sim
 
 Accessing data from out of Nuvolos applications generally consists of the following steps:
 
-1. Set up your database engine connection handler by installing the Snowflake ODBC driver or relying on native Snowflake support.
-2. Obtain tokens from the Nuvolos web interface.
+1. Set up your database engine connection handler by [installing the Snowflake ODBC driver](setting-up-odbc-drivers.md) or relying on native Snowflake support.
+2. [Obtain tokens](obtain-tokens-for-your-data.md) from the Nuvolos web interface.
 3. Establish connection.
 
 
