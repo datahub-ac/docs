@@ -29,6 +29,7 @@
     * [Access data from applications](actions/work-with-data-in-nuvolos/access-data-from-applications/README.md)
       * [Setting up ODBC drivers](actions/work-with-data-in-nuvolos/access-data-from-applications/setting-up-odbc-drivers.md)
       * [Obtain tokens for your data](actions/work-with-data-in-nuvolos/access-data-from-applications/obtain-tokens-for-your-data.md)
+      * [Find your database and schema path](actions/work-with-data-in-nuvolos/access-data-from-applications/find-your-database-and-schema-path.md)
   * [Find objects in Nuvolos](actions/find-objects-in-nuvolos/README.md)
     * [Find an organization](actions/find-objects-in-nuvolos/find-an-organization.md)
     * [Find a space](actions/find-objects-in-nuvolos/find-a-space.md)
