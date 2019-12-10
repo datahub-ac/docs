@@ -71,9 +71,9 @@ From top to bottom the icons will transport the user to the following views \(al
 
 Similar to the expanded sidebar, the currently active view is highlighted with a darker background.
 
-### The organization selection
+## The organization selection
 
-Organizations serve as the highest structural level in Nuvolos. Depending on which organization you are working in, you will be able to access different datasets, different research projects and classes. Consequently, if you cannot find a certain project, always check the organization selection that is available on top.
+Organizations serve as the highest [structural level](../data-organization/) in Nuvolos. Depending on which organization you are working in, you will be able to access different datasets, different research projects and classes. Consequently, if you cannot find a certain project, always check the organization selection that is available on top.
 
 
 
