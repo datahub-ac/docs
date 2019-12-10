@@ -25,6 +25,8 @@
     * [Distribution strategies](actions/distribute-objects-in-nuvolos/distribution-strategies.md)
   * [Work with data in Nuvolos](actions/work-with-data-in-nuvolos/README.md)
     * [Add data to your working instance](actions/work-with-data-in-nuvolos/add-data-to-your-working-instance.md)
+    * [The table view](actions/work-with-data-in-nuvolos/the-table-view.md)
+    * [Access data from applications](actions/work-with-data-in-nuvolos/access-data-from-applications.md)
   * [Find objects in Nuvolos](actions/find-objects-in-nuvolos/README.md)
     * [Find an organization](actions/find-objects-in-nuvolos/find-an-organization.md)
     * [Find a space](actions/find-objects-in-nuvolos/find-a-space.md)
