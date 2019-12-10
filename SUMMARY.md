@@ -27,7 +27,6 @@
     * [Add data to your working instance](actions/work-with-data-in-nuvolos/add-data-to-your-working-instance.md)
     * [The table view](actions/work-with-data-in-nuvolos/the-table-view.md)
     * [Access data from applications](actions/work-with-data-in-nuvolos/access-data-from-applications/README.md)
-      * [Obtain tokens for your data](actions/work-with-data-in-nuvolos/access-data-from-applications/obtain-tokens-for-your-data.md)
       * [Setting up ODBC drivers](actions/work-with-data-in-nuvolos/access-data-from-applications/setting-up-odbc-drivers.md)
   * [Find objects in Nuvolos](actions/find-objects-in-nuvolos/README.md)
     * [Find an organization](actions/find-objects-in-nuvolos/find-an-organization.md)
