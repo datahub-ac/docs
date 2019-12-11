@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Nuvolos' key features](our-features/README.md)
+* [Key features of Nuvolos](our-features/README.md)
   * [Snapshotting](our-features/snapshotting.md)
   * [Distribution](our-features/distribution.md)
   * [Data integration](our-features/data-integration.md)
