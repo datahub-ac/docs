@@ -43,7 +43,7 @@ In our particular example, we have one file and one application \(as selected pr
 6. The next steps selects the distribution strategy - more details can be found [here](distribution-strategies.md). For now, we will select overwrite, which will overwrite objects of the same name in the target. 
 
 {% hint style="success" %}
-Please note that in the target, a snapshot gets created so you should not be concerned about data loss.
+Please note that whenever you distribute, in the target a snapshot gets created, so you should not be concerned about data loss.
 {% endhint %}
 
  Once done, click **CONTINUE.**
